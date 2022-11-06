@@ -1,1 +1,1 @@
-# training.GoIt.-JS
+# goit-js-hw-06.
