@@ -2,10 +2,10 @@
   "name": "team-project-filmoteka",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://MikoreVikt.github.io/team-project-filmoteka",
+  "homepage": "https://Vladlen009.github.io/training.GoIt.-JS",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team-project-filmoteka/"
+    "build": "parcel build src/*.html --public-url /training.GoIt.-JS/"
   },
   "repository": {
     "type": "git",
